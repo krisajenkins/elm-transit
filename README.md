@@ -56,7 +56,7 @@ In your views, you can then either:
 
 * Use `getValue` to get the 0 to 1 varying Float, and `getStatus` to know the current phase of transition.
 
-* Or use one of the provided functions in [elm-transit-style](http://package.elm-lang.org/packages/etaque/elm-transit-router/latest) (or create one of your own)
+* Or use one of the provided functions in [elm-transit-style](http://package.elm-lang.org/packages/etaque/elm-transit-style/latest) (or create one of your own)
 to add the visual effect in your view:
 
 ```elm
